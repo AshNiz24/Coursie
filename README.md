@@ -6,4 +6,4 @@ Watch the complete tutorial <a href="https://youtu.be/o-y1mDgvrAM" target="_blan
 
 ### Output
 
-<img src = "screenshot/Screenshot_1658210816.png" width = "300px" height="auto">
+<img src = "screenshot/demo 1.gif" width = "300px" height="auto">
